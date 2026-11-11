@@ -5,3 +5,11 @@ body {
     margin: 40px;
     line-height: 1.6;
 }
+
+#mape {
+    background-color: #1f2a33;
+    border: 2px solid #f2c14e;
+    border-radius: 8px;
+    padding: 15px 20px;
+    margin-top: 20px;
+}

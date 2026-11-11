@@ -13,3 +13,16 @@ body {
     padding: 15px 20px;
     margin-top: 20px;
 }
+h1 {
+    color: #f2c14e;
+    font-size: 48px;
+}
+
+h2 {
+    color: #5fd3c8;
+    font-size: 30px;
+}
+
+a {
+    color: #f2c14e;
+}
